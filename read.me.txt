@@ -1,0 +1,9 @@
+Welcome to the Year of the Glitch Code repository.
+
+All code here is licensed under the creative commons share and share alike, non-commercial, and attribution license.
+
+You'll find Processing sketches that I've used in the Year of the Glitch project
+
+http://yearoftheglitch.tumblr.com
+
+I am just starting out using Processing so feedback is welcome.  I'm not sure how well I'll be able to answer questions, but you're more than welcome to send me tips, ideas, comments!
